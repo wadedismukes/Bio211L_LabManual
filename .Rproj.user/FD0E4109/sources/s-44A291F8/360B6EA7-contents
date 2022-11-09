@@ -1,0 +1,77 @@
+# Porifera, Cnidaria, and Lophotrochozoa
+
+The first animal lab will focus on three groups of invertebrate animals: Phylum Porifera, Phylum Cnidaria, and the Lophotrochozoa.  While Porifera and Cnidaria are both phyla (plural of phylum), Lophotrochozoa is a super-phylum. A super-phylum is a taxonomic ranking consisting of multiple phyla. In this case Lophotrochozoa consists of some phyla we will see in lab this week: Phylum Platyhelminthes, Phylum Annelida, and Phylum Mollusca, as well as some we won't discuss, such as Phylum Bryozoa and Phylum Brachiopoda.
+
+The following 10-minute video highlights how these groups are organized, including characteristics that reflect their evolutionary history and embryonic development. 
+
+## Groups of interest
+In this section we will briefly describe each group that we will be examining in lab this week, some of its common members, and its relative diversity.
+
+### Phylum Porifera
+This group contains approximately 8,500 species and is commonly known as the sponges.  All Porifera are aquatic and most species live in salt water, but there are a number of freshwater sponges.  For example, the first image on the left was collected in the Ioway Creek, east of the Iowa State University Campus.
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics("images/pcl/porifera/Freshwater\ sponge\ Colbert.jpeg")
+knitr::include_graphics("images/pcl/porifera/YellowTubeSonge\ Nick\ Hobgood.jpeg")
+knitr::include_graphics("images/pcl/porifera/Euretidae_Gymnorete unknown.jpeg")
+knitr::include_graphics("images/pcl/porifera/Aplysina_aerophoba\ Yoruno.jpeg")
+```
+
+### Phylum Cnidaria
+This group includes organisms called jellyfish, hydroids, sea anemones, and corals. This aquatic group contains approximately 11,500 species and many of these live in saltwater, but there also many examples of freshwater hydra and even freshwater jellyfish!
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics("images/pcl/cnidaria/Hydra\ Stephen\ Friedt.jpeg")
+knitr::include_graphics("images/pcl/cnidaria/Jellyfish\ Ruth\ Harnup.jpeg")
+knitr::include_graphics("images/pcl/cnidaria/PillarCoral\ Unknown.jpeg")
+knitr::include_graphics("images/pcl/cnidaria/Sea\ anemone\ Bernard\ Spragg.jpeg")
+```
+
+
+
+### Phylum Platyhelmenthes
+This group within the Lophotrochozoa and includes organisms known as the flatworms, tapeworms, and cestodes.  It contains about 20,000 species that live in marine and freshwater habitats, as well as moist terrestrial areas.
+
+```{r echo=FALSE, out.width='25%'}
+knitr::include_graphics("images/pcl/platyhelminthes/Helicometra\ NY\ Aquarium.jpeg")
+knitr::include_graphics("images/pcl/platyhelminthes/Planaria\ torva\ H\ Brandl.jpeg")
+knitr::include_graphics("images/pcl/platyhelminthes/Pseudoceros_dimidiatus\ Richard\ Ling.jpeg")
+knitr::include_graphics("images/pcl/platyhelminthes/Tapeworm\ Drawing\ P.S.\ Foresman.png")
+```
+
+
+### Phylum Annelida
+This phylum contains around 16,800 species and is commonly known as the segmented worms. These worms live in every type of habitat: marine, freshwater, and terrestrial In lab our focus will be on the segmented worms in the Class Clitella, including the dissection of an earthworm.
+
+
+
+### Phylum Mollusca
+Molluscs are an incredibly diverse group of lophotrochzoans with over 85,000 species.  The three classes within Phylum Mollusca that we will examine in class are Gastropoda, Bivalvia, and Cephalopoda. 
+
+#### Class Gastropod
+This class has nearly 70,000 species, including snails, slugs, and nudibranchs. They live in marine, freshwater, and terrestrial habitats.
+
+
+#### Class Bivalvia
+This group is named for the two hinged parts of their shell and includes clams, mussels, scallops, and oysters. There are approximately 9,000 species that live in aquatic systems, both marine and freshwater.
+
+
+#### Class Cephalopoda
+This highly intelligent group of approximately 800 marine species includes squid, octopuses, and nautiluses. Our exploration of this group will include a dissection of a squid. 
+
+
+## Structures and Functions
+This is the in-lab material. This section links to information on how the bodies of today's organisms are structured, how they eat, and details of their reproduction.  These subsections will also highlight unique features that define the clade. You will be looking for these and other structures in the specimens placed throughout the classroom in today's lab.
+
+### Phylum Porifera
+
+#### Body structure and movement
+
+Sponges have very simple bodies that do not have a digestive, respiratory, or nervous systems. Porifera species have asymmetrical bodies that are built by inter-meshing structures called spicules. The morphology of these spicules (pictured below) is unique to each species and researchers use them when identifying sponges.
+
+#### Nutrition
+
+To gain nutrition, most sponges posses highly specialized cells, including choanocytes and ameobocytes, to filter food out of the water column.  Choanocytes have flagella that beat to create the water flow through the pores in the sponge's body and the amoebocytes capture and digest materials in that water.  This water will eventually flow into the spongocoel, a large hollow in the sponge body, and out the osculum, or opening. Researchers can use dye to trace this movement of materials.
+
+#### Reproduction
+Reproduction in sponges can occur through sexual or asexual reproduction. Asexual reproduction happens by fragmentation or budding from the parent. Since Porifera are sessile organisms, sperm must be released into the surrounding water and fertilization is internal. Once formed, larvae (pictured below) are free swimming, until the individual becomes sessile and begins filtering water.
